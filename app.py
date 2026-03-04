@@ -53,7 +53,7 @@ def menu():
             
             for i in Restaurante.restaurantes:
                 if i.nome ==  avaliar_restaurante:
-                    cliente = input('Nome do cliente:')
+                    cliente = input('Nome do cliente : ')
                     nota = int(input('Nota (0-5):'))
                     i.receber_avaliacao(cliente,nota) 
                     
