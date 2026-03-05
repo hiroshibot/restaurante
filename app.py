@@ -10,7 +10,8 @@ Restaurante("Japa Food", "Japonesa")
 Restaurante("Burger King", "Fast Food")
 Restaurante("Pizza House", "Italiana")
 
-print("Eu Canibal sou gay")
+print("Eu Canibal como 18 paçocas na janta")
+print("e homens")a
 
 Restaurante.listar_restaurantes()
 def menu():
