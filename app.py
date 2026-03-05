@@ -11,7 +11,7 @@ Restaurante("Burger King", "Fast Food")
 Restaurante("Pizza House", "Italiana")
 
 print("Eu Canibal como 18 paçocas na janta")
-print("e homens")a
+print("e homens")
 
 Restaurante.listar_restaurantes()
 def menu():
